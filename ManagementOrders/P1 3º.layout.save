@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="555" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="TADcola.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="129" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Menus.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13051" topLine="230" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="15" />
+		</Folding>
+	</File>
+	<File name="TAlmacen.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8838" topLine="256" />
+		</Cursor>
+		<Folding>
+			<Collapse line="282" />
+			<Collapse line="303" />
+			<Collapse line="317" />
+			<Collapse line="366" />
+			<Collapse line="457" />
+			<Collapse line="534" />
+			<Collapse line="551" />
+			<Collapse line="642" />
+			<Collapse line="735" />
+			<Collapse line="754" />
+		</Folding>
+	</File>
+	<File name="TTipos.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="510" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="TAlmacen.h" open="1" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

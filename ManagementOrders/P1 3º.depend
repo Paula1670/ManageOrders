@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1621711333 source:f:\uni\2ºcuatri\ed\practicas\p1 3º\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"Menus.h"
+
+1621451619 source:f:\uni\2ºcuatri\ed\practicas\p1 3º\menus.cpp
+	"Menus.h"
+	"TAlmacen.h"
+	"TTienda.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	"TTipos.h"
+
+1621279759 f:\uni\2ºcuatri\ed\practicas\p1 3º\menus.h
+	"TTipos.h"
+	"TTienda.h"
+	"TAlmacen.h"
+	<windows.h>
+
+1621766401 f:\uni\2ºcuatri\ed\practicas\p1 3º\ttipos.h
+	<string.h>
+	<iostream>
+	<fstream>
+
+1620648985 f:\uni\2ºcuatri\ed\practicas\p1 3º\ttienda.h
+	"TTipos.h"
+
+1620933372 f:\uni\2ºcuatri\ed\practicas\p1 3º\talmacen.h
+	"TTipos.h"
+	"TADcola.h"
+	"TADlista.h"
+
+1621198187 f:\uni\2ºcuatri\ed\practicas\p1 3º\tadcola.h
+	"TTipos.h"
+
+1621109179 f:\uni\2ºcuatri\ed\practicas\p1 3º\tadlista.h
+	<iostream>
+	"TTipos.h"
+
+1621765494 source:f:\uni\2ºcuatri\ed\practicas\p1 3º\tadcola.cpp
+	"TADcola.h"
+
+1621111199 source:f:\uni\2ºcuatri\ed\practicas\p1 3º\tadlista.cpp
+	"TADlista.h"
+
+1621766428 source:f:\uni\2ºcuatri\ed\practicas\p1 3º\talmacen.cpp
+	"TAlmacen.h"
+	<cstdlib>
+	<cstdio>
+	<stdlib.h>
+	<iomanip>
+
+1620928969 source:f:\uni\2ºcuatri\ed\practicas\p1 3º\ttienda.cpp
+	"TTienda.h"
+
+1621711333 source:f:\uni\1º año\2ºcuatri\ed\practicas\p1 3º\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"Menus.h"
+
+1621279759 f:\uni\1º año\2ºcuatri\ed\practicas\p1 3º\menus.h
+	"TTipos.h"
+	"TTienda.h"
+	"TAlmacen.h"
+	<windows.h>
+
+1621766401 f:\uni\1º año\2ºcuatri\ed\practicas\p1 3º\ttipos.h
+	<string.h>
+	<iostream>
+	<fstream>
+
+1620648985 f:\uni\1º año\2ºcuatri\ed\practicas\p1 3º\ttienda.h
+	"TTipos.h"
+
+1623407959 f:\uni\1º año\2ºcuatri\ed\practicas\p1 3º\talmacen.h
+	"TTipos.h"
+	"TADcola.h"
+	"TADlista.h"
+
+1621198187 f:\uni\1º año\2ºcuatri\ed\practicas\p1 3º\tadcola.h
+	"TTipos.h"
+
+1621109179 f:\uni\1º año\2ºcuatri\ed\practicas\p1 3º\tadlista.h
+	<iostream>
+	"TTipos.h"
+
+1621766440 source:f:\uni\1º año\2ºcuatri\ed\practicas\p1 3º\menus.cpp
+	"Menus.h"
+	"TAlmacen.h"
+	"TTienda.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	"TTipos.h"
+
+1621765494 source:f:\uni\1º año\2ºcuatri\ed\practicas\p1 3º\tadcola.cpp
+	"TADcola.h"
+
+1621111199 source:f:\uni\1º año\2ºcuatri\ed\practicas\p1 3º\tadlista.cpp
+	"TADlista.h"
+
+1620928969 source:f:\uni\1º año\2ºcuatri\ed\practicas\p1 3º\ttienda.cpp
+	"TTienda.h"
+
